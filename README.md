@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
 - 👀 I’m interested in MERN STACK and Mobile App Development(React Native) 
 - 🌱 I’m currently learning Node.js and Express.js
-- 💞️ I’m looking to collaborate on a chat application
+-     Tech Stack:
+-          Javascript, React.js, Node.js, Express.js, MongoDB, Firebase, React Native, Electron, PHP, TypeScript, MySQL.
+- 💞️ I’m looking to collaborate on a Banking Mobile Application.
 - 📫 You can reach me on solomonankrah24@gmail.com or Manasseh Ankrah (facebook)
 
 <!---
