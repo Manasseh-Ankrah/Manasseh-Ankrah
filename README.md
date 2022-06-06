@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
-- 👀 I’m interested in MERN STACK
+- 👀 I’m interested in MERN STACK and Mobile App Development(React Native) 
 - 🌱 I’m currently learning Node.js and Express.js
 - 💞️ I’m looking to collaborate on a chat application
 - 📫 You can reach me on solomonankrah24@gmail.com or Manasseh Ankrah (facebook)
