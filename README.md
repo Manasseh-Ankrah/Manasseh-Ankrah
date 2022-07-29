@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
 - 👀 I’m interested in MERN STACK and Mobile App Development with React Native Framework.
 - 🌱 I’m currently learning Node.js and Express.js
-
-- My Tech Stack:
 - Programming Languages: Javascript, PHP, TypeScript.
 - Frameworks: React.js, Node.js, Express.js, React Native (Mobile App), Electron.js (Desktop Apps).
 - Database: MySQL, MongoDB, Firebase.
