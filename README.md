@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js and Express.js
 - Programming Languages: Javascript, PHP, TypeScript.
 - Frameworks: React.js, Node.js, Express.js, React Native (Mobile App), Electron.js (Desktop Apps).
-- Databases: MySQL, MongoDB, Google Firebase(Firestore).
+- Databases: MySQL, MongoDB, Google Firebase (Firestore).
 - 💞️ I’m looking to collaborate on a Mobile Banking Application.
 - 📫 You can reach me on solomonankrah24@gmail.com or Manasseh Ankrah (facebook).
 
