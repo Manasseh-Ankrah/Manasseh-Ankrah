@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
 - 👀 I’m interested in MERN STACK and Mobile App Development with React Native Framework.
 - 🌱 I’m currently learning Android Development, Kotlin and Jetpack Compose.
-- 🔥 Programming Languages: Javascript, TypeScript, Kotlin, PHP.
+- 🔥 Programming Languages: Javascript, TypeScript, Java, PHP.
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, React Native (Mobile App), Electron.js (Desktop Apps).
 - 💯 Databases: MySQL, MongoDB, Google Firebase (Firestore).
 - 💛 UI/UX Design: Figma, Axure RP.
