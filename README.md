@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
 - 👀 I’m interested in MERN STACK and Mobile App Development with React Native Framework.
-- 🌱 I’m currently learning Microservices,Docker,Kubernetes,Kafka, .
+- 🌱 I’m currently learning Microservices, Docker, Kubernetes, Kafka.
 - 🔥 Programming Languages: Javascript, TypeScript, Java, PHP.
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, Spring Boot, React Native (Mobile App), Electron.js (Desktop Apps).
 - 💯 Databases: MySQL,PostgreSQL MongoDB, Google Firebase (Firestore).
