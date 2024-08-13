@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
-- 👀 I’m interested in MERN STACK and Mobile App Development with React Native Framework.
+- 👀 I’m interested in building scalable backend applications with Java and Spring Boot.
 - 🌱 I’m currently learning Microservices, Docker, Kubernetes, Kafka.
 - 🔥 Programming Languages: Java, Javascript, TypeScript, PHP.
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, Spring Boot, React Native (Mobile App), Electron.js (Desktop Apps).
