@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manasseh-Ankrah Solomon
 - 👀 I’m interested in building scalable backend applications with Java and Spring Boot.
 - 🌱 I’m currently learning Microservices, Docker, Kubernetes, Kafka.
-- 🔥 Programming Languages: Java, Javascript, TypeScript, PHP.
+- 🔥 Programming Languages: Java, TypeScript, Javascript, Kotlin.
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, Spring Boot, React Native (Mobile App), Electron.js (Desktop Apps).
 - 💯 Databases: MySQL,PostgreSQL MongoDB, Google Firebase (Firestore).
 - 💛 UI/UX Design: Figma, Axure RP.
