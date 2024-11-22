@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Microservices, Docker, Kubernetes, Kafka.
 - 🔥 Programming Languages: Java, TypeScript, Javascript, Kotlin.
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, Spring Boot, React Native (Mobile App), Electron.js (Desktop Apps).
-- 💯 Databases: MySQL,PostgreSQL MongoDB, Google Firebase (Firestore).
+- 💯 Databases: MySQL,PostgreSQL,Oracle, MongoDB, Google Firebase (Firestore).
 - 💛 UI/UX Design: Figma, Axure RP.
 - 💥 Devops: Docker
 - 💞️ I’m looking to collaborate on a Mobile Banking Application.
