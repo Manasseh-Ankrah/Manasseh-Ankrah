@@ -5,7 +5,7 @@
 - 👨🏽‍💻 Frameworks: React.js, Next.js Node.js, Express.js, Spring Boot, React Native (Mobile App), Electron.js (Desktop Apps).
 - 💯 Databases: MySQL,PostgreSQL,Oracle, MongoDB, Google Firebase (Firestore).
 - 💛 UI/UX Design: Figma, Axure RP.
-- 💥 DevOps: Azure DevOps, Docker
+- 💥 DevOps: AWS, Azure DevOps, Docker
 - 💞️ I’m looking to collaborate on a Mobile Banking Application.
 - 📫 You can reach me on solomonankrah24@gmail.com or Manasseh Ankrah (facebook).
 
