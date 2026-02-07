@@ -8,11 +8,11 @@ Microservices Architecture · IBM Integration Bus · Core Banking Systems · Eve
 🛠 Tech Stack
 - Languages: Java, Kotlin, TypeScript, JavaScript
 - Backend: Spring Boot, Node.js, Express.js
+- Integration & Core Banking: Oracle Flexcube, IBM Integration Bus (IIB)  
+  DevOps & Cloud: AWS, Azure DevOps, Docker, Kubernetes 
 - Frontend: React.js, Next.js
 - Mobile/Desktop: React Native, Flutter, Electron.js
 - Databases: MySQL, PostgreSQL, Oracle, Flexcube, MongoDB, Firebase (Firestore)
-- DevOps & Cloud: AWS, Azure DevOps, Docker, Kubernetes
-
 
 
 🤝 Open to collaboration
