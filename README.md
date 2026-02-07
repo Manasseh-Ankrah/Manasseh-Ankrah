@@ -1,9 +1,12 @@
 👋 Hi, I’m Manasseh Solomon Ankrah — Integration Support Engineer @ Fidelity Bank Ghana
 
+
 💼 Backend-focused software engineer with a strong interest in building scalable, secure, and high-performance systems using Java and Spring Boot. I enjoy working at the intersection of banking systems, integrations, and distributed architectures.
+
 
 🚀 Currently learning & working with
 Microservices Architecture · IBM Integration Bus · Core Banking Systems · Event Driven Architecture  · Kubernetes · Apache Kafka
+
 
 🛠 Tech Stack
 - Languages: Java, Kotlin, TypeScript, JavaScript
