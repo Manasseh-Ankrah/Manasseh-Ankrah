@@ -6,13 +6,14 @@
 Microservices Architecture · IBM Integration Bus · Core Banking Systems · Event Driven Architecture  · Kubernetes · Apache Kafka
 
 🛠 Tech Stack
-Languages: Java, Kotlin, TypeScript, JavaScript
-Backend: Spring Boot, Node.js, Express.js
-Frontend: React.js, Next.js
-Mobile/Desktop: React Native, Flutter, Electron.js
-Databases: MySQL, PostgreSQL, Oracle, Flexcube, MongoDB, Firebase (Firestore)
-DevOps & Cloud: AWS, Azure DevOps, Docker, Kubernetes
-UI/UX: Figma, Axure RP
+- Languages: Java, Kotlin, TypeScript, JavaScript
+- Backend: Spring Boot, Node.js, Express.js
+- Frontend: React.js, Next.js
+- Mobile/Desktop: React Native, Flutter, Electron.js
+- Databases: MySQL, PostgreSQL, Oracle, Flexcube, MongoDB, Firebase (Firestore)
+- DevOps & Cloud: AWS, Azure DevOps, Docker, Kubernetes
+
+
 
 🤝 Open to collaboration
 Mobile Banking Applications · FinTech Solutions · Backend & Integration Projects
