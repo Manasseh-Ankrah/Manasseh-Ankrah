@@ -3,7 +3,7 @@
 💼 Backend-focused software engineer with a strong interest in building scalable, secure, and high-performance systems using Java and Spring Boot. I enjoy working at the intersection of banking systems, integrations, and distributed architectures.
 
 🚀 Currently learning & working with
-Microservices Architecture · IBM Integration Bus · Event Driven Architecture  · Kubernetes · Apache Kafka
+Microservices Architecture · IBM Integration Bus · Core Banking Systems · Event Driven Architecture  · Kubernetes · Apache Kafka
 
 🛠 Tech Stack
 Languages: Java, Kotlin, TypeScript, JavaScript
@@ -20,7 +20,7 @@ Mobile Banking Applications · FinTech Solutions · Backend & Integration Projec
 📫 Reach me
 📧 solomonankrah24@gmail.com
 
-🔵 Facebook: Manasseh Ankrah
+🔵 LinkedIn: [Manasseh Ankrah](https://www.linkedin.com/in/manasseh-ankrah-8a746b215/)
 
 <!---
 Manasseh-Ankrah/Manasseh-Ankrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
